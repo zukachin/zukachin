@@ -1,7 +1,19 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="7f208357d0064571aaf18b5b07064a8b-removebg-preview-removebg-preview.png" alt="Profile Image" width="300" style="margin-right: 20px;" />
-  <img src="download.gif" alt="Excited GIF" width="700" />
-</div>  
+<p>
+  <img src="7f208357d0064571aaf18b5b07064a8b-removebg-preview-removebg-preview.png" width="300" align="left" style="margin-right: 20px;">
+</p>
+
+<div>
+    <h3>Hello! 👋 I'm Swetha</h3>
+    <p>
+      I'm a computer science student with a keen interest in AI 🤖 and machine learning 🧠. I enjoy working on projects that involve Python 🐍, SAP GUI scripting, and web scraping 🌐. I'm also expanding my skills in data science 📊 and IoT 🌍.
+    </p>
+    <p>
+      In my free time, I like to learn new languages 🌍, especially Korean 🇰🇷. I also enjoy painting 🎨, crocheting 🧶, and reading 📚.
+    </p>
+    <p>
+      Feel free to check out my repositories to see my work, and let’s connect if you’d like to collaborate! 🤝
+    </p>
+  </div>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
