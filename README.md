@@ -1,4 +1,4 @@
-<img src="c35754a29294aab9287ce674a7207c40.jpg" width="550" > 
+<img src="7f208357d0064571aaf18b5b07064a8b-removebg-preview-removebg-preview.png" width="100" > 
 
 # Zukachin
 
