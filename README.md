@@ -5,15 +5,16 @@
 <div>
     <h3>Hello! 👋 I'm Swetha</h3>
     <p>
-      I'm a computer science student with a keen interest in AI 🤖 and machine learning 🧠. I enjoy working on projects that involve Python 🐍, SAP GUI scripting, and web scraping 🌐. I'm also expanding my skills in data science 📊 and IoT 🌍.
-    </p>
-    <p>
-      In my free time, I like to learn new languages 🌍, especially Korean 🇰🇷. I also enjoy painting 🎨, crocheting 🧶, and reading 📚.
-    </p>
+      I'm a computer science student with a keen interest in AI 🤖 and machine learning 🧠.<br>
+      I enjoy working on projects that involve Python 🐍, SAP GUI scripting, and web scraping 🌐.<br>
+      I'm also expanding my skills in data science 📊 and IoT 🌍.<br>
+      In my free time, I like to learn new languages 🌍, especially Korean 🇰🇷. I also enjoy painting 🎨, crocheting 🧶, and reading 📚.   
+      </p>
     <p>
       Feel free to check out my repositories to see my work, and let’s connect if you’d like to collaborate! 🤝
     </p>
   </div>
+<p>________________________________________________________________________________________________________</p>
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
