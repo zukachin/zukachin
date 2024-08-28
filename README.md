@@ -1,5 +1,5 @@
 <p>
-  <img src="7f208357d0064571aaf18b5b07064a8b-removebg-preview-removebg-preview.png" width="300" align="left" style="margin-right: 20px;">
+  <img src="image.jpeg" width="300" align="left" style="margin-right: 20px;">
 </p>
 
 <div>
