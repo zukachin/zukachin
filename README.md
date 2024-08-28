@@ -18,13 +18,13 @@
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="selenium" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=55125&format=png&color=000000" />
+<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=zRvbzAjx4VWY&format=png&color=000000" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=107497&format=png&color=000000" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=21276&format=png&color=000000" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" />
+<img align="left" alt="selenium" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=38553&format=png&color=000000" />
 
 <br />
