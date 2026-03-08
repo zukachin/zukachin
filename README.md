@@ -3,17 +3,25 @@
 </p>
 
 <div>
-    <h3>Hello! 👋 I'm Swetha</h3>
-    <p>
-    I'm a computer science student with a keen interest in AI 🤖 and machine learning 🧠.<br>
-    I enjoy working on projects that involve Python 🐍, SAP GUI scripting, and web scraping 🌐.<br>
-    I'm also expanding my skills in data science 📊 and IoT 🌍.<br>
-    In my free time, I like to learn new languages 🌍, especially Korean 🇰🇷. I also enjoy painting 🎨, crocheting 🧶, and reading 📚.   
-      </p>
-    <p>
-    Feel free to check out my repositories to see my work, and let’s connect if you’d like to collaborate! 🤝
-    </p>
-  </div>
+  <h3>Hello! 👋 I'm Swetha</h3>
+  <p>
+    I'm an AI & Data Science student passionate about building intelligent systems and AI agents 🤖.<br>
+    I enjoy developing AI-powered applications using Python 🐍, machine learning 🧠, and data-driven approaches 📊.<br>
+    My work focuses on building AI agents, LLM-powered tools, automation systems, and experimenting with innovative AI solutions.
+  </p>
+
+  <p>
+    Some of the projects I work on include AI agent systems, RAG-based applications, automation tools, and AI-powered problem-solving platforms.
+  </p>
+
+  <p>
+    Outside of tech, I enjoy learning new languages 🌍, especially Korean 🇰🇷, and spending time on creative hobbies like painting 🎨, crocheting 🧶, and reading 📚.
+  </p>
+
+  <p>
+    Feel free to explore my repositories to see what I'm building and experimenting with! 🚀
+  </p>
+</div>
 <p>_________________________________________________________________________________</p>
 
 ### 🧰 Languages and Tools
